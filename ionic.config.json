@@ -1,5 +1,7 @@
 {
   "name": "pagoMovil",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
